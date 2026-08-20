@@ -101,5 +101,4 @@ Replace `simulate_parents()` in script 01 with a loader returning an
 
 - VanRaden, P.M. (2008) *J. Dairy Sci.* 91:4414–4423
 - Vitezica, Z.G., Varona, L., Legarra, A. (2013) *Genetics* 195:1223–1230
-- Nogueira, S., Sechidis, K., Brown, G. (2018) *JMLR* 18:1–54 — feature-selection stability
 - Piles, M. et al. (2021) *Front. Genet.* 12:611506 — Spearman filter for marker preselection
